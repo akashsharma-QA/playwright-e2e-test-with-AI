@@ -1,0 +1,13 @@
+{
+  "name": "playwright-e2e-tests",
+  "version": "1.0.0",
+  "description": "playwright e2e tests with Ai capabilities incl mcp server",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.3"
+  }
+}
